@@ -34,6 +34,8 @@ I’m also a passionate game designer! I’ve participated in Game Jams, includi
 ## 📬 Let’s Connect  
 Feel free to explore my repositories and connect with me! I’m always excited to collaborate on innovative projects or discuss AI advancements.  
 
+- [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jule-valendo-halim/))  
+
 ---
 
 Thanks for visiting! 🚀
