@@ -27,7 +27,7 @@ I’m also a passionate game designer! I’ve participated in Game Jams, includi
 ## 🔍 What I’m Working On  
 - Publishing my research findings in leading conferences like Interspeech 2025.  
 - Exploring the intersection of computer vision and healthcare through a collaboration with Translational Imaging Innovations.  
-- Deepening my expertise in modern data engineering with Delta Lake and Databricks certifications.  
+- Deepening my expertise in production code, developing projects using tools such as Azure AI.
 
 ---
 
